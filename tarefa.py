@@ -1,0 +1,12 @@
+nome = input("Digite seu nome: ")
+idade = input("Digite sua idade: ")
+telefone = input("Digite seu telefone: ")
+endereco = input("Digite seu endereço: ")
+cidade = input("Digite sua cidade: ")
+
+print("\n===== DADOS DO USUÁRIO =====")
+print(f"- nome: {nome}")
+print(f"- Idade: {idade} anos")
+print(f"- Telefone: {telefone}")
+print(f"- Endereço: {endereco}")
+print(f"- Cidade: {cidade}")
