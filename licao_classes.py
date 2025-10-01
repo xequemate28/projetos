@@ -11,7 +11,7 @@ class Moto:
     def desligar(self):
         print(f"A {self.marca} {self.modelo} de João Paulo foi desligada.")
 
-# Criando dois objetos da classe Moto)
+# Criando dois objetos da classe Moto
 moto1 = Moto("Yamaha", "Ténéré")
 moto2 = Moto("Honda", "XRE 300")
 
